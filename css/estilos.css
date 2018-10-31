@@ -1,0 +1,29 @@
+h1{
+ color:#8953c6;
+ font-size: 50px;
+ text-align: center;
+}
+p {
+
+    font-size: 20px;
+    text-align: center;
+}
+
+
+div {
+    width: 100%;
+}
+img{
+    width: 300px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+a {
+    font-size: 20px;
+    width: 300px;
+    height: auto;
+    margin: 0px 800px;
+    display: block;
+
+}
